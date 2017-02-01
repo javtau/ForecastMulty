@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Forecast</string>
+    <string name="btn_ver_horas">Horas</string>
+    <string name="btn_ver_dias">Dias</string>
+</resources>
